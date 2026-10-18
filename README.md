@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/ishandas994-cloud/leetcode/tree/master/0997-find-the-town-judge) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/ishandas994-cloud/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ishandas994-cloud/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ishandas994-cloud/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ishandas994-cloud/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ishandas994-cloud/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/ishandas994-cloud/leetcode/tree/master/1872-stone-game-viii) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ishandas994-cloud/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/ishandas994-cloud/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Sorting
 |  |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/ishandas994-cloud/leetcode/tree/master/0836-rectangle-overlap) |
 | [0892-surface-area-of-3d-shapes](https://github.com/ishandas994-cloud/leetcode/tree/master/0892-surface-area-of-3d-shapes) |
 | [0976-largest-perimeter-triangle](https://github.com/ishandas994-cloud/leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ishandas994-cloud/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ishandas994-cloud/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/ishandas994-cloud/leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/ishandas994-cloud/leetcode/tree/master/1927-sum-game) |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ishandas994-cloud/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ishandas994-cloud/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ishandas994-cloud/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Number Theory
@@ -236,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/ishandas994-cloud/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/ishandas994-cloud/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ishandas994-cloud/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ishandas994-cloud/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ishandas994-cloud/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/ishandas994-cloud/leetcode/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ishandas994-cloud/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -281,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ishandas994-cloud/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/ishandas994-cloud/leetcode/tree/master/0200-number-of-islands) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ishandas994-cloud/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ishandas994-cloud/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ishandas994-cloud/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Geometry
@@ -328,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0590-n-ary-tree-postorder-traversal](https://github.com/ishandas994-cloud/leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0690-employee-importance](https://github.com/ishandas994-cloud/leetcode/tree/master/0690-employee-importance) |
 | [0897-increasing-order-search-tree](https://github.com/ishandas994-cloud/leetcode/tree/master/0897-increasing-order-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ishandas994-cloud/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ishandas994-cloud/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -345,10 +352,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0897-increasing-order-search-tree](https://github.com/ishandas994-cloud/leetcode/tree/master/0897-increasing-order-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ishandas994-cloud/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0897-increasing-order-search-tree](https://github.com/ishandas994-cloud/leetcode/tree/master/0897-increasing-order-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ishandas994-cloud/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ishandas994-cloud/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Linked List
 |  |
@@ -408,4 +417,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ishandas994-cloud/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ishandas994-cloud/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Memoization
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ishandas994-cloud/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ishandas994-cloud/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
