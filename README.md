@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/ishandas994-cloud/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/ishandas994-cloud/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ishandas994-cloud/leetcode/tree/master/0547-number-of-provinces) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/ishandas994-cloud/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ishandas994-cloud/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ishandas994-cloud/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ishandas994-cloud/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/ishandas994-cloud/leetcode/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/ishandas994-cloud/leetcode/tree/master/0841-keys-and-rooms) |
 | [0897-increasing-order-search-tree](https://github.com/ishandas994-cloud/leetcode/tree/master/0897-increasing-order-search-tree) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/ishandas994-cloud/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ishandas994-cloud/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ishandas994-cloud/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ishandas994-cloud/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/ishandas994-cloud/leetcode/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/ishandas994-cloud/leetcode/tree/master/0841-keys-and-rooms) |
 | [1096-brace-expansion-ii](https://github.com/ishandas994-cloud/leetcode/tree/master/1096-brace-expansion-ii) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/ishandas994-cloud/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ishandas994-cloud/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ishandas994-cloud/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ishandas994-cloud/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -427,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/ishandas994-cloud/leetcode/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/ishandas994-cloud/leetcode/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/ishandas994-cloud/leetcode/tree/master/0997-find-the-town-judge) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/ishandas994-cloud/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1791-find-center-of-star-graph](https://github.com/ishandas994-cloud/leetcode/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ishandas994-cloud/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ishandas994-cloud/leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
