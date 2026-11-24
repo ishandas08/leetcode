@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ishandas994-cloud/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/ishandas994-cloud/leetcode/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/ishandas994-cloud/leetcode/tree/master/0547-number-of-provinces) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ishandas994-cloud/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ishandas994-cloud/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ishandas994-cloud/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/ishandas994-cloud/leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/ishandas994-cloud/leetcode/tree/master/0463-island-perimeter) |
+| [0547-number-of-provinces](https://github.com/ishandas994-cloud/leetcode/tree/master/0547-number-of-provinces) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/ishandas994-cloud/leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/ishandas994-cloud/leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0690-employee-importance](https://github.com/ishandas994-cloud/leetcode/tree/master/0690-employee-importance) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/ishandas994-cloud/leetcode/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/ishandas994-cloud/leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/ishandas994-cloud/leetcode/tree/master/0463-island-perimeter) |
+| [0547-number-of-provinces](https://github.com/ishandas994-cloud/leetcode/tree/master/0547-number-of-provinces) |
 | [0690-employee-importance](https://github.com/ishandas994-cloud/leetcode/tree/master/0690-employee-importance) |
 | [0733-flood-fill](https://github.com/ishandas994-cloud/leetcode/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/ishandas994-cloud/leetcode/tree/master/0841-keys-and-rooms) |
@@ -421,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/ishandas994-cloud/leetcode/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/ishandas994-cloud/leetcode/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/ishandas994-cloud/leetcode/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/ishandas994-cloud/leetcode/tree/master/1791-find-center-of-star-graph) |
