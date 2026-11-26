@@ -382,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/ishandas994-cloud/leetcode/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/ishandas994-cloud/leetcode/tree/master/0690-employee-importance) |
 | [0733-flood-fill](https://github.com/ishandas994-cloud/leetcode/tree/master/0733-flood-fill) |
+| [0802-find-eventual-safe-states](https://github.com/ishandas994-cloud/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/ishandas994-cloud/leetcode/tree/master/0841-keys-and-rooms) |
 | [0897-increasing-order-search-tree](https://github.com/ishandas994-cloud/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/ishandas994-cloud/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/ishandas994-cloud/leetcode/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/ishandas994-cloud/leetcode/tree/master/0690-employee-importance) |
 | [0733-flood-fill](https://github.com/ishandas994-cloud/leetcode/tree/master/0733-flood-fill) |
+| [0802-find-eventual-safe-states](https://github.com/ishandas994-cloud/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/ishandas994-cloud/leetcode/tree/master/0841-keys-and-rooms) |
 | [1096-brace-expansion-ii](https://github.com/ishandas994-cloud/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/ishandas994-cloud/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/ishandas994-cloud/leetcode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/ishandas994-cloud/leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/ishandas994-cloud/leetcode/tree/master/0684-redundant-connection) |
+| [0802-find-eventual-safe-states](https://github.com/ishandas994-cloud/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/ishandas994-cloud/leetcode/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/ishandas994-cloud/leetcode/tree/master/0997-find-the-town-judge) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/ishandas994-cloud/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -490,8 +493,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/ishandas994-cloud/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ishandas994-cloud/leetcode/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/ishandas994-cloud/leetcode/tree/master/0802-find-eventual-safe-states) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ishandas994-cloud/leetcode/tree/master/0207-course-schedule) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/ishandas994-cloud/leetcode/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/ishandas994-cloud/leetcode/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
