@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/ishandas994-cloud/leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/ishandas994-cloud/leetcode/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/ishandas994-cloud/leetcode/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/ishandas994-cloud/leetcode/tree/master/0886-possible-bipartition) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/ishandas994-cloud/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ishandas994-cloud/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ishandas994-cloud/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/ishandas994-cloud/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/ishandas994-cloud/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/ishandas994-cloud/leetcode/tree/master/0841-keys-and-rooms) |
+| [0886-possible-bipartition](https://github.com/ishandas994-cloud/leetcode/tree/master/0886-possible-bipartition) |
 | [0897-increasing-order-search-tree](https://github.com/ishandas994-cloud/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/ishandas994-cloud/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ishandas994-cloud/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/ishandas994-cloud/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/ishandas994-cloud/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/ishandas994-cloud/leetcode/tree/master/0841-keys-and-rooms) |
+| [0886-possible-bipartition](https://github.com/ishandas994-cloud/leetcode/tree/master/0886-possible-bipartition) |
 | [1096-brace-expansion-ii](https://github.com/ishandas994-cloud/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/ishandas994-cloud/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ishandas994-cloud/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -446,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/ishandas994-cloud/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/ishandas994-cloud/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/ishandas994-cloud/leetcode/tree/master/0841-keys-and-rooms) |
+| [0886-possible-bipartition](https://github.com/ishandas994-cloud/leetcode/tree/master/0886-possible-bipartition) |
 | [0997-find-the-town-judge](https://github.com/ishandas994-cloud/leetcode/tree/master/0997-find-the-town-judge) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/ishandas994-cloud/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1791-find-center-of-star-graph](https://github.com/ishandas994-cloud/leetcode/tree/master/1791-find-center-of-star-graph) |
@@ -514,8 +518,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/ishandas994-cloud/leetcode/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/ishandas994-cloud/leetcode/tree/master/0886-possible-bipartition) |
 ## Bipartite Graph
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/ishandas994-cloud/leetcode/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/ishandas994-cloud/leetcode/tree/master/0886-possible-bipartition) |
 <!---LeetCode Topics End-->
