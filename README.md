@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/ishandas994-cloud/leetcode/tree/master/0860-lemonade-change) |
 | [0892-surface-area-of-3d-shapes](https://github.com/ishandas994-cloud/leetcode/tree/master/0892-surface-area-of-3d-shapes) |
 | [0976-largest-perimeter-triangle](https://github.com/ishandas994-cloud/leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [0994-rotting-oranges](https://github.com/ishandas994-cloud/leetcode/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/ishandas994-cloud/leetcode/tree/master/0997-find-the-town-judge) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/ishandas994-cloud/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ishandas994-cloud/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/ishandas994-cloud/leetcode/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/ishandas994-cloud/leetcode/tree/master/0835-image-overlap) |
 | [0892-surface-area-of-3d-shapes](https://github.com/ishandas994-cloud/leetcode/tree/master/0892-surface-area-of-3d-shapes) |
+| [0994-rotting-oranges](https://github.com/ishandas994-cloud/leetcode/tree/master/0994-rotting-oranges) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ishandas994-cloud/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ishandas994-cloud/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/ishandas994-cloud/leetcode/tree/master/3665-twisted-mirror-path-count) |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/ishandas994-cloud/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/ishandas994-cloud/leetcode/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/ishandas994-cloud/leetcode/tree/master/0886-possible-bipartition) |
+| [0994-rotting-oranges](https://github.com/ishandas994-cloud/leetcode/tree/master/0994-rotting-oranges) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/ishandas994-cloud/leetcode/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1096-brace-expansion-ii](https://github.com/ishandas994-cloud/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/ishandas994-cloud/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
